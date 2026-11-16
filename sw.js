@@ -1,4 +1,4 @@
-const CACHE_NAME = 'novo-clube-pwa-v16';
+const CACHE_NAME = 'novo-clube-pwa-v18';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
